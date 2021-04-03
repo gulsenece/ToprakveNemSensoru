@@ -1,2 +1,3 @@
 # ToprakveNemSensoru
-Arduino ile Toprak ve Nem Sensörü Kullanımı
+DSC Gazi IoT1929 Kampı Projesi
+Arduino ile Toprak Nem Sensörü
